@@ -4,6 +4,10 @@ This is the code of paper **Apollo-MILP: An Alternating Prediction-Correction Ne
 
 The code is build on top of https://github.com/sribdcn/Predict-and-Search_MILP_method
 
+## News
+
+🚀🚀 Apollo-MILP has now been integrated into MILP-X (https://github.com/happypu326/MILP-X). MILP-X is a unified machine learning framework for MILP that supports data generation, training, evaluation, and benchmarking across 16+ problem types and multiple learning methods. This integration makes it easier for researchers to reproduce Apollo-MILP, compare it with other approaches under a common framework, and conduct more systematic experiments on ML for MILP.
+
 ## Dependencies
 
 - Python 3.9
